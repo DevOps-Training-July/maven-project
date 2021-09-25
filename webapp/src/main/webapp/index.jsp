@@ -1,2 +1,1 @@
-Hi, Welcome to Jenkins.
-Check webhook work or not.
+Hi, Welcome to Jenkins.Check webhook work or not.
